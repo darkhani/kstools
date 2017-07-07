@@ -1,0 +1,61 @@
+
+    if(reg.x.bx & 1){
+     if(mousex()+1>=1&&mousex()+1<=12&&mousey()+1>3){/*1 can*/
+        puttext(1,4,65,23,BARIC);
+       if(mousey()+1>4&&mousey()+1<24){
+        BarI=mousey()+1;
+        BarX=1;
+         ENTER_ROOTINE(Windows,BarX,BarI);
+         Re=1;
+         goto Jaegi;
+       }
+     }
+     if(mousex()+1>=14&&mousex()+1<=26&&mousey()+1>3){/* 2 can*/
+       puttext(1,4,65,23,BARIC);
+       if(mousey()+1>3&&mousey()+1<24){
+        BarI=mousey()+1;
+        BarX=14;
+        cline(BarX,BarI,12,31);
+         ENTER_ROOTINE(Windows,BarX,BarI);
+       Re=1;
+       goto Jaegi;
+       }
+       goto DA;
+     }
+     if(mousex()+1>=27&&mousex()+1<=39&&mousey()+1>3){/* 3 can*/
+       puttext(1,4,65,23,BARIC);
+       if(mousey()+1>3&&mousey()+1<24){
+        BarI=mousey()+1;
+        BarX=27;
+        cline(BarX,BarI,12,31);
+         ENTER_ROOTINE(Windows,BarX,BarI);
+       Re=1;
+       goto Jaegi;
+       }
+       goto DA;
+     }
+     if(mousex()+1>=40&&mousex()+1<=53&&mousey()+1>3){/* 4 can*/
+       puttext(1,4,65,23,BARIC);
+       if(mousey()+1>3&&mousey()+1<24){
+        BarI=mousey()+1;
+        BarX=40;
+        cline(BarX,BarI,12,31);
+         ENTER_ROOTINE(Windows,BarX,BarI);
+       Re=1;
+       goto Jaegi;
+       }
+       goto DA;
+     }
+     if(mousex()+1>=53&&mousex()+1<=66&&mousey()+1>3){/* 5 can*/
+       puttext(1,4,65,23,BARIC);
+       if(mousey()+1>3&&mousey()+1<24){
+        BarI=mousey()+1;
+        BarX=53;
+        cline(BarX,BarI,12,31);
+         ENTER_ROOTINE(Windows,BarX,BarI);
+       Re=1;
+       goto Jaegi;
+       }
+       goto DA;
+     }
+    }

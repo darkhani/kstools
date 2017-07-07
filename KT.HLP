@@ -1,0 +1,51 @@
+             [] Kwangsung TOOLS Ver 1.50 [1.50.000] []
+
+здд[ Function ]дддддддддддддддддд©  здд[ RUN ]дддддддддддддддддддддд©
+Ё  F1   : HELP [This screen]     Ё  Ё       Enter : run, Ext-Run    Ё
+Ё  F2   : Calendar               Ё  Ё  Ctrl-Enter : run with option Ё
+Ё  F3   : K.T. System Infomation Ё  Ё         Tab : run             Ё
+Ё  F4   : K.T. Games             Ё  Ё      Ctrl-T : review Screen   Ё
+Ё  F5   : Easy Link Ver 2.00     Ё  юддддддддддддддддддддддддддддддды
+Ё  F6   :                        Ё  здд[ WORK]дддддддддддддддддддддд©
+Ё  F7   : Samol Register Info.   Ё  Ё   Alt+A,B,C : Change Drive    Ё
+Ё  F8   :                        Ё  Ё         '.' : to up Directory Ё
+Ё  F9   :                        Ё  Ё         '/' : to Root Rir.    Ё
+Ё  F10  :                        Ё  Ё         Tab : run             Ё
+Ё                                Ё  Ё      Ctrl-T : review Screen   Ё
+юдддддддддддддддддддддддддддддддды  юддддддддддддддддддддддддддддддды
+здд[ FILE / DIR ]ддддддддддддддддддддддддддддддддддддддддддддддддддд©
+Ё    ALT+D   : Delete files (DEL key)                               Ё
+Ё    ALT+F   : File Infomation (Ins key)                            Ё
+Ё    ALT+R   : Rename files or directories                          Ё
+Ё    CTRL+Z  : Copy file Rootine                                    Ё
+Ё        M   : maKe directory                                       Ё
+Ё        D   : Delete Directory                                     Ё
+юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+
+здд[ DOSCOMMAND ]ддддддддддддддддддддддддддддддддддддддддддддддддддд©
+Ё     /G         : Text File Reader 2.00 (Hangul)                   Ё
+Ё     /X         : Text File Reader 2.00 (English)                  Ё
+Ё     /F         : ABOUT not print                                  Ё
+Ё     /?         : OPTION HELP                                      Ё
+Ё     /H         : Option Help (Hangul mode)                        Ё
+Ё     /V         : Version Print                                    Ё
+Ё     /v         : Version Print (Hangul mode)                      Ё
+Ё     /W,w       : Run to Kwangsung Tools (Hangulmode)              Ё
+Ё     /E,e       : Run to Kwangsung Tools (English Mode)            Ё
+Ё     /C,c       : K.T. Copy Ver 1.0                                Ё
+Ё     /D,d       : Speed Directory Print Ver 1.0                    Ё
+Ё     /S,s       : K.T. System Information                          Ё
+Ё     /U,u       : Directory ReSetup                                Ё
+Ё     /P,p       : File Code Changer                                Ё
+юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+здд[ DISK ]ддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
+Ё     ALT+P  : Park hard disk head                                  Ё
+юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+здд[ Text File View ]ддддддддддддддддддддддддддддддддддддддддддддддд©
+Ё      Enter : Read text file(Txt,Cap,Doc)                          Ё
+Ё        TAB : Read text file(Txt,Cap,Doc)                          Ё
+Ё      /X,/G : Dos Command(K.T. Textfile Reader Call)               Ё
+юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+здд[ OPTION ]ддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
+Ё  Alt-Z         : show hidden files                                Ё
+юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды

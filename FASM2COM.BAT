@@ -1,0 +1,2 @@
+TASM %1.ASM
+TLINK /T %1.OBJ

@@ -1,0 +1,19 @@
+Turbo C++  Version 1.00 Copyright (c) 1990 Borland International
+kt.c:
+Warning kT.HH 1014: 'done2' is assigned a value that is never used in function ENTER_ROOTINE
+Warning kT.HH 1014: Function should return a value in function ENTER_ROOTINE
+Warning kT.HH 1281: 'q' is assigned a value that is never used in function COPY
+Warning kT.HH 1460: Nonportable pointer conversion in function SWP
+Warning kT.HH 1460: Nonportable pointer conversion in function SWP
+Warning kT.HH 1460: Nonportable pointer conversion in function SWP
+Warning kT.HH 1460: Nonportable pointer conversion in function SWP
+Warning kT.HH 2101: 'done' is assigned a value that is never used in function DFILE
+Warning kT.HH 2258: 'ACR' is assigned a value that is never used in function DRIVEB_ERR
+Warning kT.HH 2572: Parameter 'Root' is never used in function DRIVE_PRINTF
+Warning kT.HH 2741: 'done' is assigned a value that is never used in function FINFO2
+Warning HEX.HH 132: 'de' is assigned a value that is never used in function HEX
+Warning HEX.HH 132: Function should return a value in function HEX
+Warning kt.c 822: Function should return a value in function main
+Turbo Link  Version 3.0 Copyright (c) 1987, 1990 Borland International
+
+        Available memory 71744
